@@ -1,4 +1,4 @@
-## E ai, Beleza? Eu sou o Yan Carlos
+## Olá, tudo bem? Eu sou o Yan Carlos
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=r3sp31t4&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r3sp31t4&layout=compact&theme=dark)](https://github.com/r3sp31t4/github-readme-stats)
@@ -19,7 +19,6 @@
 <div>
   <h3>Databases:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="70px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="70px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70px"/>
 </div>
 <br>
