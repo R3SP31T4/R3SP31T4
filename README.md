@@ -32,6 +32,6 @@
 
 ### Sobre mim
 
-Sou técnico em Redes de Computadores, mas apaixonado por criação de Softwares e soluções criativas. Amo estudar novas tecnologias e me aprofundar nelas, como aprendo rápido estou sempre estudando algo novo.😁
+Sou apaixonado criação de Softwares e soluções criativas. Amo estudar novas tecnologias e me aprofundar nelas, como aprendo rápido estou sempre estudando algo novo.😁
 
-📖 Atualmente estou estudando criação de Backends com Ruby on Rails.
+📖 Atualmente estou estudando criação de API's com Ruby on Rails.
