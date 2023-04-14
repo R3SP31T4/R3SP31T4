@@ -1,1 +1,11 @@
+<h1 align="center">Hi 👋, I'm Yan</h1>
+<h3 align="center">A FullStack Developer</h3>
 
+<h3 align="left">Talk with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yan-carlos-b95461216" target=""><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-carlos-b95461216" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Technologies:</h3>
+<img src="https://skills.thijs.gg/icons?i=html,css,js,ts,go,nodejs,angular,vue,docker,git,mongodb,mysql,postgres"/>
+ 
