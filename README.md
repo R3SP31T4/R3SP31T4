@@ -10,5 +10,4 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,nestjs,html,css,angular,react,reactivex,azure,linux,docker,git,mongodb,mysql,postgres,sql" />
   </a>
-</p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yc4rlos&layout=compact&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ </p>
